@@ -52,7 +52,7 @@ function App() {
         <nav className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center">
-              <img src="/logo.png" alt="RB12 Services" className="h-10" />
+              <img src="logo.png" alt="RB12 Services" className="h-10" />
             </div>
             <div className="hidden md:flex items-center space-x-8 text-white">
               <a href="#services" className="hover:text-gray-300">Servicios</a>
